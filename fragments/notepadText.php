@@ -1,0 +1,5 @@
+<?php
+
+$notepadText = '<p><strong>Simple web notepad</strong><br /><br /><strong>What is it?</strong><br /><br />It\\\\\\\'s a very simple web based notepad which allows you to save text information. It saves the data to a file rather than to a database for simplicity and it uses tinyMCE as the editor.<br />&nbsp; <br /><strong>What is the point of it?</strong><br /><br />It allows you to save urls etc... on your own personal notepad on the web. You have to enter a password to edit it so only you can change what is stored. It\\\\\\\'s great for quickly transfering urls and other settings between computers.<br />&nbsp; <br /><strong>Installation</strong><br /><br />Installation is really simple, just copy the files onto a webserver running php and change the password at the top of the index.php file. Default password is \\\\\\\'password\\\\\\\'. <br /><br /><strong>Licensing</strong><br /><br />Please feel free to use and modify how you see fit.</p>';
+
+?>
